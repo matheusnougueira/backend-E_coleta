@@ -20,7 +20,7 @@
 - POST
 
 ### Criando um ponto de coleta
-``POST | $ baseUrl/poins``
+``POST | $ baseUrl/points``
 ```
 {
 	"name": "Mercadinho",
